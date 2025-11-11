@@ -1,87 +1,20 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2025-11-11T12:49:54.903Z",
-  "profile": {
-    "title": "Chunke WU",
-    "subtitle": "CUHK Year1 Student",
-    "currentWork": "a AI trading program",
-    "currentLearn": "web3",
-    "collaborateOn": "open source program\n",
-    "helpWith": "web3 experience sharing",
-    "ama": "innovative ideas, web design",
-    "contact": "cocowu67@outlook.com",
-    "funFact": "",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "java"
-  ]
-}
+# Hi 👋, I'm Chunke WU
+
+### CUHK Year1 Student
+
+- 🔭 I'm currently working on **a AI trading program**
+
+- 🌱 I'm currently learning **web3**
+
+- 👯 I'm looking to collaborate on **open source program
+**
+
+- 🤝 I'm looking for help with **web3 experience sharing**
+
+- 💬 Ask me about **innovative ideas, web design**
+
+- 📫 How to reach me **cocowu67@outlook.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a></p>
+
